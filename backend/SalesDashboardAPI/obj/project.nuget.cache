@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3BA/27fVNcA=",
+  "success": true,
+  "projectFilePath": "D:\\Coding_Related\\Dot_Net\\SalesDashboard-React-DotNet\\backend\\SalesDashboardAPI\\SalesDashboardAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAMpage\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\RAMpage\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
