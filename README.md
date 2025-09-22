@@ -24,9 +24,5 @@ npm i && npm run dev   # http://localhost:5173
 ## API
 `GET /api/dashboard` → single JSON with sales, orders, trends, uptime, satisfaction, etc.
 
-## Notes
-- React code kept **basic** (hooks only) – matches CV tag “React (basic)”.  
-- .NET side emphasises controller pattern, CORS, clean JSON, ready-for-docker structure.
-
 MIT
 ```
